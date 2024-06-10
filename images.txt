@@ -1,2 +1,4 @@
 python:3.11-alpine
 alpine:3.19.1
+alpine:3.19
+debian:12
